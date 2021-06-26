@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6bdf739.chunk.css",
-    "main.js": "/static/js/main.9e1f00aa.chunk.js",
-    "main.js.map": "/static/js/main.9e1f00aa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a6d50701.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a6d50701.js.map",
-    "static/js/2.df673ed8.chunk.js": "/static/js/2.df673ed8.chunk.js",
-    "static/js/2.df673ed8.chunk.js.map": "/static/js/2.df673ed8.chunk.js.map",
-    "static/js/3.5c5d04de.chunk.js": "/static/js/3.5c5d04de.chunk.js",
-    "static/js/3.5c5d04de.chunk.js.map": "/static/js/3.5c5d04de.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b6bdf739.chunk.css.map": "/static/css/main.b6bdf739.chunk.css.map",
-    "static/js/2.df673ed8.chunk.js.LICENSE.txt": "/static/js/2.df673ed8.chunk.js.LICENSE.txt"
+    "main.css": "https://abhisheksharma32.github.io/pizzapalace/static/css/main.b6bdf739.chunk.css",
+    "main.js": "https://abhisheksharma32.github.io/pizzapalace/static/js/main.9e1f00aa.chunk.js",
+    "main.js.map": "https://abhisheksharma32.github.io/pizzapalace/static/js/main.9e1f00aa.chunk.js.map",
+    "runtime-main.js": "https://abhisheksharma32.github.io/pizzapalace/static/js/runtime-main.a9598caa.js",
+    "runtime-main.js.map": "https://abhisheksharma32.github.io/pizzapalace/static/js/runtime-main.a9598caa.js.map",
+    "static/js/2.df673ed8.chunk.js": "https://abhisheksharma32.github.io/pizzapalace/static/js/2.df673ed8.chunk.js",
+    "static/js/2.df673ed8.chunk.js.map": "https://abhisheksharma32.github.io/pizzapalace/static/js/2.df673ed8.chunk.js.map",
+    "static/js/3.5c5d04de.chunk.js": "https://abhisheksharma32.github.io/pizzapalace/static/js/3.5c5d04de.chunk.js",
+    "static/js/3.5c5d04de.chunk.js.map": "https://abhisheksharma32.github.io/pizzapalace/static/js/3.5c5d04de.chunk.js.map",
+    "index.html": "https://abhisheksharma32.github.io/pizzapalace/index.html",
+    "static/css/main.b6bdf739.chunk.css.map": "https://abhisheksharma32.github.io/pizzapalace/static/css/main.b6bdf739.chunk.css.map",
+    "static/js/2.df673ed8.chunk.js.LICENSE.txt": "https://abhisheksharma32.github.io/pizzapalace/static/js/2.df673ed8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6d50701.js",
+    "static/js/runtime-main.a9598caa.js",
     "static/js/2.df673ed8.chunk.js",
     "static/css/main.b6bdf739.chunk.css",
     "static/js/main.9e1f00aa.chunk.js"
