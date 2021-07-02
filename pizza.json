@@ -2,7 +2,7 @@
     {
         "name":"Country Spl.",
         "offer":"20% oFF",  
-        "description':"(Onion, Crisp Cepsicum)",
+        "description':[Onion, Crisp Cepsicum],
         "Url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYpffD5mro-fZBnxMjToaL4WvIcGT3NUbmKzmEKUANV4hnDFZXcIVldsC5Q5-Whty4GIU&usqp=CAU",
         "order" :"Buy",
         "price":"Rs 199/-"
