@@ -38,12 +38,11 @@
          "price":"Rs 399/-"
     }
 ],
-    "drinks=[
+    "drinks"=[
     {
         "name":"Mojito",
         "offer":"20% oFF",
-        // description:"(Onion, Crisp Cepsicum)",
-        "Url":"https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg",
+       "Url":"https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg",
          "price":"Rs 99/-"
     }]
 }
