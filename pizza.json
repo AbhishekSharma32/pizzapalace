@@ -1,4 +1,5 @@
-{"pizza":[
+{
+    "pizza":[
     {
         "name":"Country Spl.",
      "offer":"20% off",
@@ -36,5 +37,14 @@
          "Url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTYXKCnpTk1lge3kEUDE6-MqiraotXNS37eqvAkVEdRNa0u9n_flrX6cKZKzoYmj2f57E&usqp=CAU",
          "price":"Rs 399/-"
     }
-]}
+],
+    "drinks=[
+    {
+        "name":"Mojito",
+        "offer":"20% oFF",
+        // description:"(Onion, Crisp Cepsicum)",
+        "Url":"https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg",
+         "price":"Rs 99/-"
+    }]
+}
 
